@@ -1,0 +1,41 @@
+
+============================================================
+       HR EMPLOYEE ATTRITION ANALYSIS — SUMMARY REPORT
+============================================================
+
+DATASET
+  Records : 1470 employees
+
+------------------------------------------------------------
+KEY FINDINGS
+------------------------------------------------------------
+
+1. OVERALL ATTRITION RATE
+   16.12% of employees left the company.
+
+2. DEPARTMENT WITH HIGHEST ATTRITION
+   Sales — 20.6% attrition rate.
+
+3. SALARY IMPACT
+   Employees who left earned $4,787/month on average,
+   compared to $6,833/month for those who stayed.
+   Difference: $2,046/month.
+
+4. AGE FACTOR
+   Average age of employees who left: 33.6 years.
+   Younger employees (25–35) show the highest attrition risk.
+
+5. OVERTIME IMPACT
+   Attrition rate with overtime    : 30.5%
+   Attrition rate without overtime : 10.4%
+   Employees doing overtime are significantly more likely to leave.
+
+------------------------------------------------------------
+RECOMMENDATIONS
+------------------------------------------------------------
+  • Review compensation packages, especially in Sales
+  • Reduce mandatory overtime to improve retention
+  • Focus engagement programs on employees aged 25–35
+  • Improve job satisfaction and work-life balance initiatives
+
+============================================================
